@@ -1,0 +1,39 @@
+main>.container{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.logo{
+    width: 200px;
+}
+
+nav{
+    z-index: 100;
+    font-size: 20px;
+}
+
+nav a:hover{
+    background-color: white;
+    padding-left: 20px;
+}
+
+.img2{
+    width: 400px;
+}
+h1{
+    padding-top: 150px;
+}
+
+footer{
+    background-color: #037ff2;
+    
+}
+.material-symbols-outlined{
+    height: 150px;
+    text-align: center;
+    line-height: 45px;
+    right: 11px;
+    position: fixed;
+    bottom: 50px;
+    border-radius: 100%;
+}
+
